@@ -1,0 +1,36 @@
+/* Global */
+body{
+background-color:black;
+color: white;
+}
+
+/* Header Styles*/
+#header-nav{
+    background-color: yellow;
+    border: 0;
+    border-radius: 0;
+}
+
+#logo-img{
+    background: url('../images/logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    width: 125px;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.header-title{
+    color: black;
+}
+/* End Header Styles*/
+
+/*Begin Main Content Styles*/
+.main{
+    background-color: grey;
+    margin: 0px 50px 50px 50px; 
+}
